@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm coop0183 👋
 
-<!--
-**coop0183/coop0183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student at TripleTen BootCamp with a passion for technology and continuous learning.  
+Here’s a little more about me:
 
-Here are some ideas to get you started:
+- 🎓 Currently studying software engineering at [TripleTen BootCamp](https://tripleten.com/)
+- 🌍 Love to travel and explore new places
+- 📚 Avid reader always looking for the next great book
+- 🎮 Enjoy gaming in my spare time
+- 🧠 Always eager to learn new things and take on new challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+
+Feel free to connect or reach out if you want to collaborate or just chat about tech, travel, books, or games!
