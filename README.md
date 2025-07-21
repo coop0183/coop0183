@@ -1,4 +1,4 @@
-# Hi, I'm coop0183 👋
+# Hi, I'm Jon 👋
 
 I'm a software engineering student at TripleTen BootCamp with a passion for technology and continuous learning.  
 Here’s a little more about me:
